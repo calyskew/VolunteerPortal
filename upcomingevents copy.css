@@ -1,0 +1,243 @@
+.upcoming-events-child {
+    position: absolute;
+    top: 322px;
+    left: 104px;
+    background-color: rgba(114, 119, 63, 0.4);
+    width: 100px;
+    height: 100px;
+}
+.upcoming-events-item {
+    position: absolute;
+    top: 448px;
+    left: 104px;
+    background-color: rgba(114, 119, 63, 0.7);
+    width: 100px;
+    height: 100px;
+}
+.upcoming-events-inner {
+    position: absolute;
+    top: 574px;
+    left: 104px;
+    width: 100px;
+    height: 100px;
+}
+.icon9 {
+    width: 24px;
+    position: relative;
+    height: 24px;
+}
+.state-layer6 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 8px;
+}
+.container6 {
+    border-radius: 100px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.trailing-icon-button6 {
+    position: absolute;
+    top: 62px;
+    left: 1244px;
+    width: 51px;
+    height: 48px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.upcoming-events2 {
+    position: absolute;
+    top: 93px;
+    left: calc(50% - 316px);
+    font-size: 60px;
+    font-family: Lato;
+    display: inline-block;
+    width: 632px;
+    height: 57px;
+}
+.div1 {
+    position: absolute;
+    top: 220px;
+    left: calc(50% - 568px);
+    display: inline-block;
+    width: 94px;
+    height: 79px;
+}
+.div2 {
+    position: absolute;
+    top: 337px;
+    left: calc(50% - 568px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 94px;
+    height: 79px;
+}
+.div3 {
+    position: absolute;
+    top: 460px;
+    left: calc(50% - 568px);
+    font-family: Inter;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 94px;
+    height: 79px;
+}
+.div4 {
+    position: absolute;
+    top: 586px;
+    left: calc(50% - 568px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 94px;
+    height: 79px;
+}
+.upcoming-events-child1 {
+    position: absolute;
+    top: 196px;
+    left: 104px;
+    width: 100px;
+    height: 100px;
+}
+.upcoming-events-child2 {
+    position: absolute;
+    top: 196px;
+    left: 235px;
+    background-color: #e0e1d5;
+    width: 949px;
+    height: 100px;
+}
+.upcoming-events-child3 {
+    position: absolute;
+    top: 322px;
+    left: 235px;
+    background-color: #c7c9b2;
+    width: 949px;
+    height: 100px;
+}
+.upcoming-events-child4 {
+    position: absolute;
+    top: 700px;
+    left: 235px;
+    background-color: #72773f;
+    width: 949px;
+    height: 100px;
+}
+.upcoming-events-child5 {
+    position: absolute;
+    top: 574px;
+    left: 235px;
+    background-color: #868a5a;
+    width: 949px;
+    height: 100px;
+}
+.upcoming-events-child6 {
+    position: absolute;
+    top: 448px;
+    left: 235px;
+    background-color: #9da079;
+    width: 949px;
+    height: 100px;
+}
+.upcoming-events-child7 {
+    position: absolute;
+    top: 700px;
+    left: 104px;
+    background-color: #72773f;
+    width: 100px;
+    height: 100px;
+}
+.div5 {
+    position: absolute;
+    top: 715px;
+    left: calc(50% - 568px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 94px;
+    height: 79px;
+}
+.marthas-march-madness {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 457px);
+    display: inline-block;
+    width: 914px;
+    height: 51px;
+}
+.marthas-march-madness-cook-of-wrapper {
+    position: absolute;
+    top: 220px;
+    left: calc(50% - 426px);
+    width: 914px;
+    height: 51px;
+    font-size: 50px;
+}
+.group-wrapper {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 457px);
+    width: 914px;
+    height: 51px;
+}
+.group-div {
+    position: absolute;
+    top: 337px;
+    left: calc(50% - 423px);
+    width: 914px;
+    height: 51px;
+    font-size: 50px;
+}
+.helping-hands {
+    position: absolute;
+    top: 463px;
+    left: calc(50% - 423px);
+    font-size: 50px;
+    display: inline-block;
+    width: 914px;
+    height: 51px;
+}
+.upcoming-events3 {
+    position: absolute;
+    top: 585px;
+    left: calc(50% - 426px);
+    font-size: 50px;
+    display: inline-block;
+    width: 914px;
+    height: 51px;
+}
+.upcoming-events4 {
+    position: absolute;
+    top: 714px;
+    left: calc(50% - 426px);
+    font-size: 50px;
+    display: inline-block;
+    width: 914px;
+    height: 51px;
+}
+.upcoming-events1 {
+    width: 1350px;
+    position: relative;
+    border-radius: 45px;
+    background-color: #fff;
+    border: 45px solid #72773f;
+    box-sizing: border-box;
+    height: 898px;
+    overflow: hidden;
+    max-width: 90%;
+    max-height: 90%;
+    text-align: center;
+    font-size: 40px;
+    color: #000;
+    font-family: Poppins;
+}
+

@@ -1,0 +1,245 @@
+.icon13 {
+    width: 24px;
+    position: relative;
+    height: 24px;
+}
+.state-layer10 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 8px;
+}
+.container10 {
+    border-radius: 100px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.trailing-icon-button10 {
+    position: absolute;
+    top: 62px;
+    left: 1244px;
+    width: 51px;
+    height: 48px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.goal-dashboard {
+    position: absolute;
+    top: 106px;
+    left: calc(50% - 316px);
+    font-size: 60px;
+    font-family: Lato;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 632px;
+    height: 57px;
+}
+.current-goals {
+    position: absolute;
+    top: 208px;
+    left: calc(50% - 594px);
+    font-size: 50px;
+    text-align: left;
+    display: inline-block;
+    width: 632px;
+    height: 57px;
+}
+.goals-child {
+    position: absolute;
+    top: 306px;
+    left: 204px;
+    border-radius: 45px;
+    background-color: #c7c9b2;
+    width: 916px;
+    height: 108px;
+}
+.goals-item {
+    position: absolute;
+    top: 449px;
+    left: 204px;
+    border-radius: 45px;
+    background-color: #9da079;
+    width: 916px;
+    height: 108px;
+}
+.goals-inner {
+    position: absolute;
+    top: 592px;
+    left: 204px;
+    border-radius: 45px;
+    background-color: #72773f;
+    width: 916px;
+    height: 108px;
+}
+.ellipse-div {
+    position: absolute;
+    top: 317px;
+    left: 82px;
+    border-radius: 50%;
+    background-color: #e0e1d5;
+    width: 90px;
+    height: 90px;
+}
+.goals-child1 {
+    position: absolute;
+    top: 459px;
+    left: 81px;
+    border-radius: 50%;
+    background-color: #e0e1d5;
+    width: 90px;
+    height: 90px;
+}
+.goals-child2 {
+    position: absolute;
+    top: 598px;
+    left: 82px;
+    border-radius: 50%;
+    background-color: #e0e1d5;
+    width: 90px;
+    height: 90px;
+}
+.span3 {
+    font-family: Inter;
+}
+.txt {
+    line-break: anywhere;
+    width: 100%;
+}
+.div10 {
+    position: absolute;
+    top: 325px;
+    left: 93px;
+    display: flex;
+    align-items: center;
+    width: 72px;
+    height: 76px;
+}
+.div11 {
+    position: absolute;
+    top: 467px;
+    left: 93px;
+    display: flex;
+    align-items: center;
+    width: 72px;
+    height: 76px;
+}
+.div12 {
+    position: absolute;
+    top: 608px;
+    left: 93px;
+    display: flex;
+    align-items: center;
+    width: 72px;
+    height: 76px;
+}
+.attend-one-workshop1 {
+    position: absolute;
+    top: 332px;
+    left: calc(50% - 450px);
+    font-size: 39px;
+    text-align: left;
+    display: inline-block;
+    width: 958px;
+    height: 60px;
+}
+.volunteer-for-a1 {
+    position: absolute;
+    top: 475px;
+    left: calc(50% - 451px);
+    font-size: 39px;
+    text-align: left;
+    display: inline-block;
+    width: 958px;
+    height: 60px;
+}
+.come-to-the1 {
+    position: absolute;
+    top: 616px;
+    left: calc(50% - 451px);
+    font-size: 39px;
+    text-align: left;
+    display: inline-block;
+    width: 958px;
+    height: 60px;
+}
+.uncheckedchecked-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 7px;
+    background-color: #fff;
+    border: 3px solid #a7a7a7;
+    box-sizing: border-box;
+}
+.uncheckedchecked {
+    position: absolute;
+    top: 316px;
+    left: 1175px;
+    width: 88px;
+    height: 88px;
+}
+.uncheckedchecked1 {
+    position: absolute;
+    top: 459px;
+    left: 1175px;
+    width: 88px;
+    height: 88px;
+}
+.uncheckedchecked2 {
+    position: absolute;
+    top: 602px;
+    left: 1175px;
+    width: 88px;
+    height: 88px;
+}
+.goals-child3 {
+    position: absolute;
+    top: 754px;
+    left: 1002px;
+    background-color: #e0e1d5;
+    width: 272px;
+    height: 72px;
+    cursor: pointer;
+}
+.want-to-set {
+    position: absolute;
+    top: 768px;
+    left: 991px;
+    font-size: 25px;
+    line-height: 35px;
+    font-weight: 500;
+    font-family: Lato;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 290px;
+    height: 43px;
+}
+.goals1 {
+    width: 1350px;
+    position: relative;
+    border-radius: 45px;
+    background-color: #fff;
+    border: 45px solid #72773f;
+    box-sizing: border-box;
+    height: 898px;
+    overflow: hidden;
+    max-width: 90%;
+    max-height: 90%;
+    text-align: center;
+    font-size: 55px;
+    color: #000;
+    font-family: Poppins;
+}
+

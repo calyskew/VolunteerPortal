@@ -1,0 +1,276 @@
+.icon7 {
+    width: 24px;
+    position: relative;
+    height: 24px;
+}
+.state-layer4 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 8px;
+}
+.container4 {
+    border-radius: 100px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.trailing-icon-button4 {
+    position: absolute;
+    top: 62px;
+    left: 1244px;
+    width: 51px;
+    height: 48px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.edit-your-information {
+    position: absolute;
+    top: 98px;
+    left: calc(50% - 593px);
+    font-size: 60px;
+    font-family: Lato;
+    display: inline-block;
+    width: 632px;
+    height: 57px;
+}
+.edit-user-info-child {
+    position: absolute;
+    top: 46.5px;
+    left: 878.5px;
+    border-right: 1px solid #000;
+    box-sizing: border-box;
+    width: 1px;
+    height: 806px;
+}
+.ellie-mclaughlin {
+    position: absolute;
+    top: 377px;
+    left: 895px;
+    font-size: 43px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    width: 389px;
+    height: 94px;
+}
+.generic-avatar-icon1 {
+    position: absolute;
+    top: 95px;
+    left: 941px;
+    border-radius: 150px;
+    width: 290px;
+    height: 290px;
+    overflow: hidden;
+}
+.edit-user-info-item {
+    position: absolute;
+    top: 237px;
+    left: 88px;
+    background-color: #e0e1d5;
+    width: 709px;
+    height: 81px;
+}
+.edit-user-info-inner {
+    position: absolute;
+    top: 387px;
+    left: 88px;
+    background-color: #e0e1d5;
+    width: 709px;
+    height: 81px;
+}
+.edit-user-info-child1 {
+    position: absolute;
+    top: 537px;
+    left: 88px;
+    background-color: #e0e1d5;
+    width: 709px;
+    height: 81px;
+}
+.edit-user-info-child2 {
+    position: absolute;
+    top: 687px;
+    left: 88px;
+    background-color: #e0e1d5;
+    width: 709px;
+    height: 81px;
+}
+.eye-icon {
+    position: absolute;
+    top: 710px;
+    left: 735px;
+    width: 35px;
+    height: 35px;
+    overflow: hidden;
+}
+.edit-user-info-child3 {
+    position: absolute;
+    top: 775px;
+    left: 1159px;
+    background-color: #d9d9d9;
+    width: 122px;
+    height: 58px;
+}
+.edit-user-info-child4 {
+    position: absolute;
+    top: 775px;
+    left: 1014px;
+    background-color: #d9d9d9;
+    width: 122px;
+    height: 58px;
+}
+.name {
+    position: absolute;
+    top: 202px;
+    left: 88px;
+    line-height: 35px;
+    display: flex;
+    align-items: center;
+    width: 323px;
+}
+.member-since-2024 {
+    position: absolute;
+    top: 454px;
+    left: 924px;
+    line-height: 35px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 323px;
+}
+.save {
+    position: absolute;
+    top: 786px;
+    left: 1151px;
+    line-height: 35px;
+    font-family: Lato;
+    color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 130px;
+}
+.cancel2 {
+    position: absolute;
+    top: 786px;
+    left: 1010px;
+    line-height: 35px;
+    font-family: Lato;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 130px;
+}
+.ellie-mclaughlin1 {
+    position: absolute;
+    top: 260px;
+    left: 99px;
+    font-size: 35px;
+    line-height: 35px;
+    display: flex;
+    align-items: center;
+    width: 323px;
+}
+.div {
+    position: absolute;
+    top: 410px;
+    left: 99px;
+    font-size: 35px;
+    line-height: 35px;
+    display: flex;
+    align-items: center;
+    width: 323px;
+}
+.elliemclaughlingmailcom {
+    position: absolute;
+    top: 542px;
+    left: 99px;
+    font-size: 35px;
+    line-height: 35px;
+    display: flex;
+    align-items: center;
+    width: 591px;
+    height: 76px;
+}
+.farmportal123 {
+    position: absolute;
+    top: 710px;
+    left: 99px;
+    font-size: 35px;
+    line-height: 35px;
+    display: flex;
+    align-items: center;
+    width: 461px;
+}
+.phone-number {
+    position: absolute;
+    top: 352px;
+    left: 88px;
+    line-height: 35px;
+    display: flex;
+    align-items: center;
+    width: 323px;
+}
+.email {
+    position: absolute;
+    top: 502px;
+    left: 88px;
+    line-height: 35px;
+    display: flex;
+    align-items: center;
+    width: 323px;
+}
+.password {
+    position: absolute;
+    top: 652px;
+    left: 88px;
+    line-height: 35px;
+    display: flex;
+    align-items: center;
+    width: 323px;
+}
+.at-least-8 {
+    margin-bottom: 0px;
+}
+.at-least-8-characters-at-least {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    padding-left: 20px;
+}
+.at-least-8-container {
+    position: absolute;
+    top: 773px;
+    left: 88px;
+    font-size: 15px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    width: 568px;
+}
+.edit-user-info1 {
+    width: 1350px;
+    position: relative;
+    border-radius: 45px;
+    background-color: #fff;
+    border: 45px solid #72773f;
+    box-sizing: border-box;
+    height: 898px;
+    overflow: hidden;
+    max-width: 90%;
+    max-height: 90%;
+    text-align: left;
+    font-size: 25px;
+    color: #000;
+    font-family: Poppins;
+}
+

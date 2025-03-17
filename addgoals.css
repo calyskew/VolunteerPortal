@@ -1,0 +1,181 @@
+.icon3 {
+    width: 24px;
+    position: relative;
+    height: 24px;
+}
+.state-layer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 8px;
+}
+.container {
+    border-radius: 100px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.trailing-icon-button {
+    position: absolute;
+    top: 62px;
+    left: 1244px;
+    width: 51px;
+    height: 48px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.enter-new-goals {
+    position: absolute;
+    top: 88px;
+    left: calc(50% - 490px);
+    font-weight: 600;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    width: 585px;
+    height: 57px;
+}
+.add-goals-child {
+    position: absolute;
+    top: 204px;
+    left: -1px;
+    border-top: 2px solid #e0e1d5;
+    box-sizing: border-box;
+    width: 1352px;
+    height: 2px;
+}
+.add-goals-item {
+    position: absolute;
+    top: 608px;
+    left: 45px;
+    border-radius: 45px;
+    background-color: #e0e1d5;
+    border: 3px solid #72773f;
+    box-sizing: border-box;
+    width: 1250px;
+    height: 114px;
+}
+.add-goals-inner {
+    position: absolute;
+    top: 263px;
+    left: 45px;
+    border-radius: 45px;
+    background-color: #e0e1d5;
+    border: 3px solid #72773f;
+    box-sizing: border-box;
+    width: 1255px;
+    height: 114px;
+}
+.add-goals-child1 {
+    position: absolute;
+    top: 436px;
+    left: 45px;
+    border-radius: 45px;
+    background-color: #e0e1d5;
+    border: 3px solid #72773f;
+    box-sizing: border-box;
+    width: 1255px;
+    height: 114px;
+}
+.add-goals-child2 {
+    position: absolute;
+    top: 779px;
+    left: 1150px;
+    background-color: #d9d9d9;
+    width: 151px;
+    height: 72px;
+}
+.add-goals-child3 {
+    position: absolute;
+    top: 779px;
+    left: 956px;
+    background-color: #d9d9d9;
+    width: 152px;
+    height: 72px;
+}
+.submit {
+    position: absolute;
+    top: 793px;
+    left: 1144px;
+    font-size: 25px;
+    line-height: 35px;
+    font-family: Poppins;
+    color: #000;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 161px;
+    height: 43px;
+}
+.cancel {
+    position: absolute;
+    top: 793px;
+    left: 951px;
+    font-size: 25px;
+    line-height: 35px;
+    color: #000;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 162px;
+    height: 43px;
+}
+.list-icon {
+    position: absolute;
+    top: 67px;
+    left: 54px;
+    width: 99px;
+    height: 99px;
+}
+.add-text {
+    position: absolute;
+    top: 291px;
+    left: calc(50% - 590px);
+    display: flex;
+    font-weight: 500;
+    align-items: center;
+    width: 585px;
+    height: 57px;
+}
+.add-text1 {
+    position: absolute;
+    top: 464px;
+    left: calc(50% - 590px);
+    display: flex;
+    font-weight: 500;
+    align-items: center;
+    width: 585px;
+    height: 57px;
+}
+.add-text2 {
+    position: absolute;
+    top: 637px;
+    left: calc(50% - 590px);
+    display: flex;
+    font-weight: 500;
+    align-items: center;
+    width: 585px;
+    height: 57px;
+}
+.add-goals {
+    width: 1350px;
+    position: relative;
+    border-radius: 45px;
+    background-color: #72773f;
+    height: 898px;
+    overflow: hidden;
+    max-width: 90%;
+    max-height: 90%;
+    text-align: left;
+    font-size: 50px;
+    color: #49454f;
+    font-family: Lato;
+}
+
